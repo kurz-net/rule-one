@@ -3,10 +3,14 @@
 ## strategy overview
 
 ### 4 M's
-1. Meaning: Do you, as the one investing, have any special connection to the company?
-2. Moat: Does the company excell at anything? Brand / Secret / Monopoly / Price / Convenience.
+1. Meaning:
+  Only invest in a company, if you would hold it for 100 years and make your family's whole wealth depend on it. (p. 53)
+2. Moat: Does the company excell at anything?
+  Can the company defend itself against "attacks" from the competition. There are various ways to do that: Brand, Secrets, Monopolies, Prices, Convenience.
 3. Management: Does the company have a good management? Look at the letters adressed to the investors.
-4. Margin of Safety: Does the company have a safety net? Sticker Price & Margin of Safety
+  The company wants to last and not just make a profit shortterm.
+4. Margin of Safety:
+  Can you buy it for a lower price, than it's worth currently?
 
 ### Fundamental Data
 - ROIC, EPS, Turnover / Earnings should have an avg. growth rate >= 10% over the last 10 / 5 / 1 year(s).
