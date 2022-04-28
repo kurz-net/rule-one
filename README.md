@@ -24,3 +24,7 @@
 - https://fcsapi.com/
 - https://polygon.io/
 - https://marketstack.com/
+
+# test data
+## from the book
+- p. 92, p. 103f, p. 106ffff
