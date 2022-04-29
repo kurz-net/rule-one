@@ -27,4 +27,4 @@
 
 # test data
 ## from the book
-- p. 92, p. 103f, p. 106ffff
+- p.92, p.103f, p.106ffff, p.130f, p.143

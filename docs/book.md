@@ -18,7 +18,7 @@
 # Chapter 5 - The big five
 ## The big five
 - ROIC - Return on Investment Capital
-- Revenue Growth
+- Revenue / Sales Growth
 - EPS - Earnings per Share
 - BVPS - Book Value per Share
 - FCF - Free Cash Flow
@@ -32,7 +32,7 @@
 
 - units:
   - ROIC: %
-  - Revenue, Capital, Cash: in Millions
+  - Revenue / Sales, Capital, Cash: in Millions
   - EPS: in $
 
 ## Where to get the big five
@@ -44,4 +44,60 @@
 
 ## Debt
 - if a company could pay their debt in 3 years with the current cashflow, it's ok.
-- what are their long term liabilities (in $)? divide it by the current cashflow. if it's <= 3, it's ok.
+- what are their long term liabilities (in $)? divide it by the current cashflow. if it's 3 or less, it's ok.
+
+# Chapter 6
+
+## order of importance (descending) of the big five
+- capital
+- eps
+- revenue / sales
+- cashflow
+
+## roic
+- calculate: (net revenue after taxes) / (equity capital + liabilities)
+- also named: return on capital (ROC)
+
+# Chapter 7
+
+# Chapter 8
+- What is the stock worth by the numbers?
+- What's my MOS (margin of safety)?
+- If the current price of the stock is around the MOS price, it's go time
+
+# Chapter 9
+
+## numbers to calculate the value price
+- current eps
+- future eps growth estimate
+- future PER (price earnings ratio) estimate
+- min. profit rate
+
+## short version
+1. calculate the future eps by letting the current eps grow by 10 years by the eps growth estimate.
+2. calculate the future market price by calculating the future eps by the future kgv
+3. calculate the value price by lowering the future market price by the min. profit rate
+
+## calculating the value price
+- if the future eps growth estimate is way higher than the historical eps growth rate, take the lower (more conservative) number
+- also called "earnings estimate"
+
+- kgv = stock price / eps
+- standard kgv = 2 x future eps growth estimate
+  f.e. if the company is expected to grow by 10% in the next year, the std kgv would be 20
+- if the historical kgv is smaller, take the more conservative number
+
+- divide value price by 4 to get the MOS price
+- divide the MOS price by 2, that's the price you should buy the stock at
+
+
+
+
+
+
+
+
+
+
+
+
