@@ -1,25 +1,20 @@
 {
   "name": "rule-one",
   "version": "1.0.0",
-  "description": "### 4 M's 1. Meaning:   Only invest in a company, if you would hold it for 100 years and make your family's whole wealth depend on it. (p. 53) 2. Moat: Does the company excell at anything?   Can the company defend itself against \"attacks\" from the competition. There are various ways to do that: Brand, Secrets, Monopolies, Prices, Convenience. 3. Management: Does the company have a good management? Look at the letters adressed to the investors.   The company wants to last and not just make a profit shortterm. 4. Margin of Safety:   Can you buy it for a lower price, than it's worth currently?",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codepanther01/rule-one.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/codepanther01/rule-one/issues"
-  },
-  "homepage": "https://github.com/codepanther01/rule-one#readme",
   "devDependencies": {
     "turbo": "^1.2.5"
   }
