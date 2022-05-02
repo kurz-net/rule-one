@@ -23,7 +23,6 @@
 - https://eodhistoricaldata.com/
 - https://fcsapi.com/
 - https://polygon.io/
-- https://marketstack.com/
 
 # test data
 ## from the book
