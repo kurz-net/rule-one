@@ -18,11 +18,29 @@
 - Operating Cashflow should have an avg. growth rate >= 10% over the last 3 / 1 year(s).
 
 ## stock data apis
-- https://twelvedata.com/
-- https://www.alphavantage.co/
-- https://eodhistoricaldata.com/
-- https://fcsapi.com/
-- https://polygon.io/
+### data
+- market price
+- macd, rsi, sma
+- fundamentals
+  - future eps growth estimate
+  - future per estimate
+  - roic
+  - revenue / sales
+  - eps
+  - bvps (book value per share)
+  - fcf (free cash flow)
+  - liabilities / debt
+### apis
+- https://twelvedata.com/ -> probably
+- https://www.alphavantage.co/ -> not enough data
+- https://eodhistoricaldata.com/ -> probably
+- https://fcsapi.com/ -> probably enough data, but need pro subscription
+- https://polygon.io/ -> not enough data
+
+- https://simfin.com/
+- https://financialdatadb.com/
+- https://quickfs.net/
+- https://site.financialmodelingprep.com/ -> a lot of data
 
 # test data
 ## from the book
