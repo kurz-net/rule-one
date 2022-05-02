@@ -90,14 +90,31 @@
 - divide value price by 4 to get the MOS price
 - divide the MOS price by 2, that's the price you should buy the stock at
 
+# Chapter 10
 
+## when you should sell
+- the company isn't "wonderful" anymore (bad management, scandal, new ceo, leaks, ...)
+- the market price surpassed the MOS price
 
+# Chapter 11
 
+# Chapter 12
 
+## MACD
+- 8 / 17 / 9
+- bars going up -> buy
+- bars going down -> sell
 
+## RSI
+- 14 / 5
+- from 20 going up - good signal
+- from 80 going down - bad signal
+- line going up -> buy
+- line going down -> sell
+- lines crossing -> buy / sell signal
 
-
-
-
-
+## Moving Average
+- 10 SMA
+- price crosses sma bottom to top -> buy
+- price crosses sma top to bottom -> sell
 

@@ -28,3 +28,12 @@
 # test data
 ## from the book
 - p.92, p.103f, p.106ffff, p.130f, p.143
+- p.355
+
+# online tools
+- https://ruleonetoolbox.com/plans
+
+# books by phil town
+- rule #1
+- payback time!
+- invested
