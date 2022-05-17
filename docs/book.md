@@ -3,7 +3,7 @@
 - be proud of what you own!
 - 10-10 rule: i don't want to have a company 10 minutes, if i wouldn't want it for 10 years.
 - break down your potential companies by filtering according to what you like to do, what you're good at and your expenses & income.
-  for example if you're good at computers, you might consiver investing in software companies.
+  for example if you're good at computers, you might consider investing in software companies.
 
 # Chapter 4 - Find a moat!
 ## Second M: Moat
